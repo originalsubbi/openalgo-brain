@@ -1,5 +1,9 @@
 # OpenAlgo Brain
 
+<p align="center">
+  <img src="docs/images/brain-neural-view.png" alt="OpenAlgo Brain neural view: Learner, Execution, Drift-Watch and monitor clusters" width="720">
+</p>
+
 **An AI auto-trading layer on top of [OpenAlgo](https://github.com/marketcalls/openalgo) — self-hosted, paper-first, with risk limits you own.**
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](License.md)
